@@ -347,7 +347,7 @@ img{
         grid-template-columns: repeat(3,1fr);
     }
 
-    .item .img{
+    .item img{
         margin-bottom: .5rem;
     }
 
